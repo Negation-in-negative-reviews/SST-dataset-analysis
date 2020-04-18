@@ -1,3 +1,9 @@
+# Project specific files
+pickle_saves/
+stanford-corenlp-full-2018-10-05/
+stanfordSentimentTreebank/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
