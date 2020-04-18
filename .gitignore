@@ -2,7 +2,8 @@
 pickle_saves/
 stanford-corenlp-full-2018-10-05/
 stanfordSentimentTreebank/
-
+.vscode/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
