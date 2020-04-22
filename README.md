@@ -15,3 +15,10 @@ pip install pycorenlp
 4. Extract `stanfordSentimentTreebank.zip` to the project directory.
 5. Create a `pickle_saves` directory in the project directory.
 6. Run the `analyze_data.py` file.
+
+
+Notes
+----
+* No of unmatched sents: 1
+* No of unmatched reviews: 67
+This is by using `\w+` regex to process the remaining unmatched reviews and sentences
